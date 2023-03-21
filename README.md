@@ -2,5 +2,5 @@
 
 shopping-list for mobile using Firebase
 
-#Demo
-#https://shopping-list-mobile.netlify.app/
+# Demo
+# https://shopping-list-mobile.netlify.app/
